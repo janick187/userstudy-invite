@@ -1,6 +1,6 @@
 # Digital Companion User Study
 ## Hi there!
-For my master thesis at University of St. Gallen, I will conduct a small experiment. with your participation in the user study you would make a great contribution for my work. You will have the **unique opportunity** to try out [Microsoft Hololens](https://www.microsoft.com/en-us/hololens) and dive into the world of Mixed Reality!
+For my master thesis at University of St. Gallen, I will conduct a small experiment. With your participation in the user study you would make a great contribution for my work. You will have the **unique opportunity** to try out [Microsoft Hololens](https://www.microsoft.com/en-us/hololens) and dive into the world of Mixed Reality!
 
 **WHEN?**
 - 15th, 16th of July 2021
